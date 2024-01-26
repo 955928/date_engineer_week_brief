@@ -2,3 +2,4 @@ olist.db
 env/
 .venv
 __pycache__
+.venv
